@@ -8,7 +8,7 @@
   * [Inspiration](./HOMERULES.md#inspiration-phb125)
   * [Cleaving Through Creatures](./HOMERULES.md#cleaving-through-creatures-dmg272)
   * [Flanking](./HOMERULES.md#flanking-dmg251)
-  * [Lycanthropy](./HOMERULES.md#lycanthropy-)
+  * [Lycanthropy](./HOMERULES.md#lycanthropy)
   * [Simultaneous Effects](./HOMERULES.md#simultaneous-effects-xge77)
   * [Encumbrance](./HOMERULES.md#encumbrance-phb176)
   * [Climb onto a Bigger Creature](./HOMERULES.md#climb-onto-a-bigger-creature-dmg271)
