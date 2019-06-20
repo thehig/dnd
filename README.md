@@ -17,9 +17,9 @@
   * [Tumble](./HOMERULES.md#tumble-dmg271)
   * [Shove Aside](./HOMERULES.md#shove-aside-dmg271)
 * [Player Specific](./PLAYER-SPECIFIC.md)
-  * [Scott/Octavian](./PLAYER-SPECIFIC.md#scott-octavian-wizard-necromancer)
-  * [Ben/Zotri](./PLAYER-SPECIFIC.md#ben-zotri-wizard-necromancer)
-  * [Owen/Asyet](./PLAYER-SPECIFIC.md#owen-asyet-druid-moon)
+  * [Scott/Octavian](./PLAYER-SPECIFIC.md#scott--octavian-wizard-necromancer)
+  * [Ben/Zotri](./PLAYER-SPECIFIC.md#ben--zotri-wizard-necromancer)
+  * [Owen/Asyet](./PLAYER-SPECIFIC.md#owen--asyet-druid-moon)
 
 
 
