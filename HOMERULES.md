@@ -1,6 +1,5 @@
 # Homerules
 
-
 - Playable races that have a fly speed must use their concentration (as if they were casting a spell) to maintain flight beyond a single round
 
 - If you end a turn whilst falling, and begin your next turn still falling, you must use your move to fall 500ft at the start of your turn. If you have a fly speed, or a reaction you may interrupt this fall by using half your move speed as though you were prone (XGE77)
@@ -10,6 +9,14 @@
 - In order to preserve some of the adventure/exploration mechanics, the Goodberry spell requires and consumes the material component
 
 - Feather Tokens (eg: Quaals Feather Token) are considered daily uses, rather than one-off consumables
+
+---
+
+## Character Creation
+
+Use whatever method you prefer for stats from any of the official sources (Point Buy, Std Array), or you may roll (4d6 drop lowest) 7 times (drop lowest) which creates powerful "hero" characters.
+
+Use any WOTC published source books in any combinations.
 
 ---
 
@@ -65,6 +72,22 @@ If you carry weight in excess of 10 times your **Strength** score, up to your ma
 ---
 
 ## Action Options
+
+### Hold Turn/Initiative
+
+In previous editions there was a mechanic which allowed you to "hold initiative" so that you could go later in the round. This mechanic does not exist in 5e, and is replaced by the Ready Action.
+
+### Ready Action (PHB193)
+
+> Included for clarity alongside Hold Turn/Initiative
+
+Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. To do so, you can take the Ready action on your turn, which lets you act using your reaction before the start of your next turn.
+
+First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the goblin steps next to me, I move away."
+
+When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.
+
+When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell's magic requires concentration. If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the web spell and ready magic missile, your web spell ends, and if you take damage before you release magic missile with your reaction, your concentration might be broken.
 
 ### Climb onto a Bigger Creature (DMG271)
 
