@@ -73,6 +73,11 @@ If you carry weight in excess of 10 times your **Strength** score, up to your ma
 
 ## Action Options
 
+### Trap *Click* 3-2-1
+
+> https://theangrygm.com/traps-suck/
+
+
 ### Hold Turn/Initiative
 
 In previous editions there was a mechanic which allowed you to "hold initiative" so that you could go later in the round. This mechanic does not exist in 5e, and is replaced by the Ready Action.
