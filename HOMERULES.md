@@ -7,6 +7,8 @@
 
 - When measuring distance in 3D, count the horizontal distance and the vertical distance separately and use the larger of the two (rather than trying to calculate a hypotenuse)
 
+- In order to preserve some of the adventure/exploration mechanics, the Goodberry spell requires and consumes the material component
+
 ---
 
 ### More Difficult Identification (DMG136)
