@@ -9,6 +9,8 @@
 
 - In order to preserve some of the adventure/exploration mechanics, the Goodberry spell requires and consumes the material component
 
+- Feather Tokens (eg: Quaals Feather Token) are considered daily uses, rather than one-off consumables
+
 ---
 
 ### More Difficult Identification (DMG136)
