@@ -2,3 +2,6 @@
   - https://thinkdm.org/2019/06/22/simple-trap-system/
   - https://www.dmsguild.com/product/280686/Simple-Trap-System
   - https://thinkdm.files.wordpress.com/2019/06/trap-chart.png
+- dragons-breath-weapon-table.png
+  - https://thinkdm.org/2019/06/08/breath-weapon-dice-pool/
+  - https://thinkdm.files.wordpress.com/2019/06/chromatic-dragons-breath-weapon-table.png
