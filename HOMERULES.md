@@ -73,10 +73,16 @@ If you carry weight in excess of 10 times your **Strength** score, up to your ma
 
 ## Action Options
 
-### Trap *Click* 3-2-1
+### Trap *Click* 3-2-1 ([1](https://theangrygm.com/traps-suck/), [2](https://thinkdm.org/2019/06/22/simple-trap-system/))
 
-> https://theangrygm.com/traps-suck/
+When the characters encounter a trap, the DM declares "CLICK!" Going around the table, the players have the opportunity to say how their character reacts (**brace**, **jump** or **prone**).
 
+<!--
+  Image Reference:
+    ![Unable to load text](Isolated.png "Hover Text")
+-->
+
+![traps-suck](images/trap-chart.png "Traps Suck")
 
 ### Hold Turn/Initiative
 
