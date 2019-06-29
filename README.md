@@ -4,6 +4,8 @@
   * [Critical](./CRITFUMBLE.md#critical-hit-table-natural-20-only)
   * [Fumble](./CRITFUMBLE.md#fumble-table-natural-1-only)
 * [Homerules](./HOMERULES.md)
+  * [Temporary HP can be useful](./HOMERULES.md#temporary-hp-can-be-useful)
+  * [Pushing the limits](./HOMERULES.md#pushing-the-limits)
   * [More Difficult Identification (_DMG136_)](./HOMERULES.md#more-difficult-identification-dmg136)
   * [Inspiration (_PHB125_*)](./HOMERULES.md#inspiration-phb125)
   * [Cleaving Through Creatures (_DMG272_)](./HOMERULES.md#cleaving-through-creatures-dmg272)
