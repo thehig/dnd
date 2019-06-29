@@ -20,6 +20,22 @@ Use any WOTC published source books in any combinations.
 
 ---
 
+### Temporary HP can be Useful
+
+If while maintaining concentration a character takes damage that would require a concentration check, if that damage would be dealt entirely to Temporary HP no concentration check is required.
+
+### Pushing the limits
+
+This homerule aims to add a 'cinematic' element, allowing a character to push themselves when they have nothing left to give. As a free action the character restores some depleted resource to be used **immediately** in exchange for a number of levels of exhaustion. The exhaustion takes effect when the 'cinematic' action is completed
+
+Examples:
+
+- Spellcaster: Regenerate a level _N_ spell slot in exchange for _N+1_ levels of exhaustion when the spell ends
+- Druid: Wild shape into a CR _N_ beast in exchange for _N+1_ levels of exhaustion when the wild shape ends
+- Fighter: Take an additional Attack Action, in exchange for a number of exhaustion levels equal to the number of attacks made as part of the Attack Action (minimum 1)
+
+Other actions may be taken, consult your DM for specifics.
+
 ### More Difficult Identification (DMG136)
 
 Removes the ability to identify the properties of a magic item during a short rest, and requires the identify spell, experimentation, or both to reveal what a magic item does.
