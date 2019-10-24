@@ -163,7 +163,7 @@ Other actions may be taken, consult your DM for specifics.
 
 ### Movement
 
-- Creatures without a natural swim speed must make "Swim" (Athletics|Strength) checks at the start of each turn (Calm water DC10, Flowing water DC15, White water/Rapids DC20)
+- Creatures without a natural swim speed must make "Swim" (Athletics or Strength) checks at the start of each turn (Calm water DC10, Flowing water DC15, White water/Rapids DC20)
   - Success means the creature can move at 1/2 their normal move speed
   - Failure means the creature can not willingly move this round, takes -DEXMOD to AC and has DISADV on Dex Checks and Saves until a successful swim check is made
   - Extreme failure results in an uncontrolled buoyancy movement (usually sinking) of 5ft per 5 under the Swim DC
