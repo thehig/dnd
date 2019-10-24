@@ -13,7 +13,7 @@ if (navigator.serviceWorker.controller) {
       scope: "./dnd"
     })
     .then(function(reg) {
-      debug(reg.scope, "register");
-      debug("Service worker change, registered the service worker");
+      console.log(reg.scope, "register");
+      console.log("Service worker change, registered the service worker");
     });
 }
