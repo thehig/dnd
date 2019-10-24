@@ -30,7 +30,14 @@ const styles = {
 // Static cache is loaded once and then always served from cache
 const staticCache = {
   name: `${CACHE_BASE_NAME}-STATIC-${CACHE_TAG}`,
-  files: []
+  files: [
+    "dnd/images/CREDIT.html",
+    "dnd/images/dragons-breath-weapon-table.png",
+    "dnd/images/trap-chart.png",
+    "dnd/assets/css/style.css",
+    "dnd/assets/js/scale.fix.js",
+    "dnd/install-sw.js"
+  ]
 };
 
 // Update cache is loaded, then when requested it serves from cache
