@@ -59,4 +59,4 @@
 
 > Hosted at [https://thehig.github.io/dnd](https://thehig.github.io/dnd)
 
-<script src="/dnd/assets/js/install-sw.js"></script>
+<script src="/dnd/install-sw.js"></script>
