@@ -38,7 +38,7 @@ const staticCache = {
 //    then refreshes the client
 const updateCache = {
   name: `${CACHE_BASE_NAME}-UPDATE-${CACHE_TAG}`,
-  files: ["/"]
+  files: []
 };
 
 const CACHES = [staticCache, updateCache];
