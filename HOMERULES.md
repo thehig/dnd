@@ -20,21 +20,7 @@ Use any WOTC published source books in any combinations.
 
 ---
 
-### Temporary HP can be Useful
-
-If while maintaining concentration a character takes damage that would require a concentration check, if that damage would be dealt entirely to Temporary HP no concentration check is required.
-
-### Pushing the limits
-
-This homerule aims to add a 'cinematic' element, allowing a character to push themselves when they have nothing left to give. As a free action the character restores some depleted resource to be used **immediately** in exchange for a number of levels of exhaustion. The exhaustion takes effect when the 'cinematic' action is completed
-
-Examples:
-
-- Spellcaster: Regenerate a level _N_ spell slot in exchange for _N+1_ levels of exhaustion when the spell ends
-- Druid: Wild shape into a CR _N_ beast in exchange for _N+1_ levels of exhaustion when the wild shape ends
-- Fighter: Take an additional Attack Action, in exchange for a number of exhaustion levels equal to the number of attacks made as part of the Attack Action (minimum 1)
-
-Other actions may be taken, consult your DM for specifics.
+## Variant Rules
 
 ### More Difficult Identification (DMG136)
 
@@ -67,11 +53,6 @@ A creature can't flank an enemy that it can't see. A creature also can't flank w
 When a creature and at least one of its allies are adjacent to an enemy and on opposite sides or corners of the enemy's space, they flank that enemy, and each of them has advantage on melee attack rolls against that enemy.
 
 (**Homerule addition:** When in doubt about whether two creatures flank an enemy on a grid, use +2 to hit instead)
-
-
-### Lycanthropy 
-
-**TBC**
 
 ### Simultaneous Effects (XGE77)
 
@@ -152,6 +133,26 @@ With this option, a creature uses the special shove attack from the Player's Han
 
 Using the Attack action, you can make a Special melee Attack to shove a creature, either to knock it prone or push it away from you. If you’re able to make multiple attacks with the Attack action, this Attack replaces one of them.
 The target must be no more than one size larger than you and must be within your reach. Instead of Making an Attack roll, you make a **Strength (Athletics)** check contested by the target’s **Strength (Athletics)** or **Dexterity (Acrobatics)** check (the target chooses the ability to use). If you win the contest, you either knock the target prone or push it 5 feet away from you.
+
+### Temporary HP can be Useful
+
+If while maintaining concentration a character takes damage that would require a concentration check, if that damage would be dealt entirely to Temporary HP no concentration check is required.
+
+### Pushing the limits
+
+This homerule aims to add a 'cinematic' element, allowing a character to push themselves when they have nothing left to give. As a free action the character restores some depleted resource to be used **immediately** in exchange for a number of levels of exhaustion. The exhaustion takes effect when the 'cinematic' action is completed
+
+Examples:
+
+- Spellcaster: Regenerate a level _N_ spell slot in exchange for _N+1_ levels of exhaustion when the spell ends
+- Druid: Wild shape into a CR _N_ beast in exchange for _N+1_ levels of exhaustion when the wild shape ends
+- Fighter: Take an additional Attack Action, in exchange for a number of exhaustion levels equal to the number of attacks made as part of the Attack Action (minimum 1)
+
+Other actions may be taken, consult your DM for specifics.
+
+### Lycanthropy 
+
+**TBC**
 
 ## Underwater Combat
 
