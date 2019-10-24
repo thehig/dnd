@@ -3,20 +3,17 @@
 > Note: Regaining a spell slot applies only when casting a spell that involved using a spell slot. The spell slot regained is of a level lower than the original spell was cast, and can be at maximum a 5th level Spell Slot.
 
 | d100  | DICE | EFFECTS                                             |
-| :---: | :--: | --------------------------------------------------- |
-| 0-15  |  2x  | 1 ON DMG DICE COUNTS AS MAX DMG                     |
-| 16-30 |  "   | 1 ON DMG DICE COUNTS AS MAX DMG                     |
+| :---: | :--: | :-------------------------------------------------- |
+| 0-30  |  2x  | 1 ON DMG DICE COUNTS AS MAX DMG                     |
 | 31-45 |  "   | FREE ATTACK WITH SAME WEAPON (OR REGAIN SPELL SLOT) |
 | 46-60 |  "   | TARGET FUMBLES                                      |
-| 61-64 |  3x  |                                                     |
-| 65-68 |  "   |                                                     |
+| 61-68 |  3x  | 1 ON DMG DICE COUNTS AS MAX DMG                     |
 | 69-72 |  "   | FREE ATTACK WITH SAME WEAPON (OR REGAIN SPELL SLOT) |
 | 73-76 |  "   | TARGET FUMBLES                                      |
-| 77-79 |  4x  |                                                     |
-| 80-81 |  "   |                                                     |
+| 77-81 |  4x  | 1 ON DMG DICE COUNTS AS MAX DMG                     |
 | 82-83 |  "   | FREE ATTACK WITH SAME WEAPON (OR REGAIN SPELL SLOT) |
 | 84-85 |  "   | TARGET FUMBLES                                      |
-| 86-89 |  2x  | TARGET -1 AC UNTIL ARMOR HEALED/REPAIRED             |
+| 86-89 |  2x  | TARGET -1 AC UNTIL ARMOR HEALED/REPAIRED            |
 | 90-94 |  "   | TARGET BLINDED FOR **d6** ROUNDS (_IF APP_)         |
 | 95-96 |  "   | SEVER AN APPENDAGE (_IF APP_).                      |
 | 97-99 |  "   | TARGET STUNNED FOR **d6** ROUNDS (_IF APP_)         |
@@ -24,14 +21,8 @@
 
 # FUMBLE TABLE (**NATURAL 1 ONLY**)
 
-> Note: "CASTER AIDE" refers to a Focus, Component Pouch, or other item used in the casting of a Spell
-
-> Note: "Fumble" also applies to SAVING THROWS made against harmful magical effects
-
-> Note: EOT = End of Turn, EONT = End of Next Turn
-
 | d100  | EFFECTS                                                                        |
-| :---: | ------------------------------------------------------------------------------ |
+| :---: | :----------------------------------------------------------------------------- |
 | 01-09 | DROP WEAPON (OR CASTER AIDE) AT FEET                                           |
 | 10-17 | DROP WEAPON (OR CASTER AIDE) 10’                                               |
 | 18-23 | DROP WEAPON (OR CASTER AIDE) 20’                                               |
@@ -53,5 +44,11 @@
 |  99   | WEAPON BREAKS. (_IF NOT APPLICABLE, TREAT AS 98_)                              |
 |  00   | AUTOMATIC HIT CLOSEST ALLY. ROLL FOR CRIT. (_IF NOT APPLICABLE, TREAT AS 99._) |
 
-* [Github Gist](https://gist.github.com/thehig/19c6db9df9e43ea7e10fa4bed312525f)
-* [bit.ly/critfumble](bit.ly/critfumble)
+> Note: "CASTER AIDE" refers to a Focus, Component Pouch, or other item used in the casting of a Spell
+
+> Note: "Fumble" also applies to SAVING THROWS made against harmful magical effects
+
+> Note: EOT = End of Turn, EONT = End of Next Turn
+
+- [Github Gist](https://gist.github.com/thehig/19c6db9df9e43ea7e10fa4bed312525f)
+- [bit.ly/critfumble](bit.ly/critfumble)
