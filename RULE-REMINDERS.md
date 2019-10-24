@@ -1,12 +1,8 @@
-# Spellcasting
-
-> Source: [gist](https://gist.github.com/thehig/d782d96a552b345080c5f10a98f9c93e)
-
-## Material Components
+## Spellcasting Material Components
 
 - If you have an arcane focus or component pouch it is assumed you have any material components necessary for spellcasting **except if a material has a gp value**, in which case you must have that Material Component in your inventory to cast the spell.
 
-# Combat
+## Combat
 
 | Name                       | To Hit                    | Damage                        |
 | -------------------------- | ------------------------- | ----------------------------- |
@@ -61,14 +57,14 @@
   - Action or bonus action
   - Advantage if smaller than target, disadvantage if larger
 
-# Out Of Combat
+## Out Of Combat
 
 ### Resting
 
 > For the purposes of a short or long rest, rest is considered to be generally sedentiary actions that usually involve sitting, and doing nothing that requires intense focus.
 
-- You regenerate all HP after a long rest, and up to 1/2 your maximum Hit Dice
-- When you finish a long rest during which you slept in medium or heavy armor, you regain only 1/4 of any expended Hit Dice (min 1).
+- You regenerate all HP after a long rest, and up to ½ your maximum Hit Dice
+- When you finish a long rest during which you slept in medium or heavy armor, you regain only ¼ of any expended Hit Dice (min 1).
 - Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC10 CONSAV or suffer one level of exhaustion. It becomes harder to fight off exhaustion if you stay awake for multiple days. After the first 24 hours, the DC increases by 5 for each consecutive 24-hour period without a long rest. The DC resets to 10 when you finish a long rest (-Xanathars)
 - If you did not sleep on previous nights, or if you slept in medium or heavy armor, the rest **does not reduce your exhaustion level**.
 - Long rests in some environments will only provide the benefit of a short rest. To get the benefit of a long rest, rest in an established or fortifiable position, or spend an entire day performing no travel or strenuous tasks.
@@ -82,7 +78,7 @@
 | Heavy Armor  | 10 minutes | 5 minutes |
 | Shield       | 1 action   | 1 action  |
 
-# Exhaustion
+## Exhaustion
 
 ### Effects
 
@@ -95,7 +91,7 @@
 | 5     | Speed reduced to 0                               |
 | 6     | Death                                            |
 
-## Ways to gain a point of exhaustion
+### Getting it
 
 - Go 24 hours without sleep
   - DC10 CONSAV (+5 per 24 hrs)
@@ -103,7 +99,7 @@
   - DC15 CONSAV
   - DC+5 if moving at a fast pace
   - Disadvantage if wearing medium armor, heavy armor or heavy clothing
-  - Automatic fail if less than 1/2 target water drunk
+  - Automatic fail if less than ½ target water drunk
   - If you already have one or more levels of exhaustion, **you take two levels**
 - End a day without consuming 1lb of food
   - PCs can go 3+CONMOD days without eating, after which an **automatic point of exhaustion per day** without food
@@ -117,7 +113,7 @@
   - +1 for each hour past 8
 - And of course, spells, diseases etc
 
-## Ways to remove a point of exhaustion
+### Removing it
 
 - Greater Restoration
 - Potion of Vitality
