@@ -1,5 +1,3 @@
-# D&amp;D Stuff
-
 * [Crit/Fumble Tables](./CRITFUMBLE.md)
   * [Critical](./CRITFUMBLE.md#critical-hit-table-natural-20-only)
   * [Fumble](./CRITFUMBLE.md#fumble-table-natural-1-only)
@@ -22,10 +20,11 @@
   * [Scott/Octavian](./PLAYER-SPECIFIC.md#scott--octavian-wizard-necromancer)
   * [Ben/Zotri](./PLAYER-SPECIFIC.md#ben--zotri-wizard-necromancer)
   * [Owen/Asyet](./PLAYER-SPECIFIC.md#owen--asyet-druid-moon)
+  * [PJ/Fenrir](./PLAYER-SPECIFIC.md#pj--fenrir-ranger-monster-slayer)
 * [DM Rules](./DM-RULES.md)
   * [Breath Weapon Dice Pool](./DM-RULES.md#breath-weapon-dice-pool)
 
-
+> Hosted at https://thehig.github.io/dnd
 
 
 
