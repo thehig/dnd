@@ -153,3 +153,36 @@ With this option, a creature uses the special shove attack from the Player's Han
 Using the Attack action, you can make a Special melee Attack to shove a creature, either to knock it prone or push it away from you. If you’re able to make multiple attacks with the Attack action, this Attack replaces one of them.
 The target must be no more than one size larger than you and must be within your reach. Instead of Making an Attack roll, you make a **Strength (Athletics)** check contested by the target’s **Strength (Athletics)** or **Dexterity (Acrobatics)** check (the target chooses the ability to use). If you win the contest, you either knock the target prone or push it 5 feet away from you.
 
+## Underwater Combat
+
+### Breathing
+
+- Creatures can hold their **breath** for a number of rounds equal to their CON score before begining to drown
+- A drowning creature can survive for CONMOD rounds and cannot take Actions or Reactions, after which they become unconsious and cannot be stabilized or regain hp until they can breathe
+
+### Movement
+
+- Creatures without a natural swim speed must make "Swim" (Athletics|Strength) checks at the start of each turn (Calm water DC10, Flowing water DC15, White water/Rapids DC20)
+  - Success means the creature can move at 1/2 their normal move speed
+  - Failure means the creature can not willingly move this round, takes -DEXMOD to AC and has DISADV on Dex Checks and Saves until a successful swim check is made
+  - Extreme failure results in an uncontrolled buoyancy movement (usually sinking) of 5ft per 5 under the Swim DC
+
+### Visibility
+
+- The maximum perception range underwater is determined by the clarity of the water (eg Clear 100ft, Murky 30ft) and the depth (Dim light at [Clarity * 6]ft and Darkness at [Clarity * 10]ft)
+
+### Weapons and Attacks
+
+- Weapons that deal **B**ludgeoning or **S**lashing damage have -2 to hit and do 1/2 damage
+- Ranged weapons take a penalty of -2 to hit per 5 feet, and all listed missile ranges are halved
+- Thrown weapons do not function underwater unless they are Darts, Javelins, Spears, Tridents or Nets
+
+### Spellcasting
+
+- Casting a spell underwater that requires a **V**erbal component reduces **breath** by 1
+- A creature holding their breath and concentrating on a spell must make a concentration check at the start of each turn with a starting DC of 10, increasing by 1 per turn spent concentrating underwater
+
+### Sources
+
+- [GM Tips 164 Underwater Campaign Considerations with environments effects swim and others](https://www.youtube.com/watch?v=9xowjh4QcPU)
+- [Has anyone tried an underwater combat? What was it like?](https://www.reddit.com/r/DnD/comments/2xsjqt/has_anyone_tried_an_underwater_combat_what_was_it/)
