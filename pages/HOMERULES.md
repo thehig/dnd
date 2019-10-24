@@ -79,7 +79,7 @@ When the characters encounter a trap, the DM declares "CLICK!" Going around the 
     ![Unable to load text](Isolated.png "Hover Text")
 -->
 
-![traps-suck](images/trap-chart.png "Traps Suck")
+![traps-suck](../images/trap-chart.png "Traps Suck")
 
 ### Hold Turn/Initiative
 
