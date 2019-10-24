@@ -1,7 +1,5 @@
 # CRITICAL HIT TABLE (**NATURAL 20 ONLY**)
 
-> Note: Regaining a spell slot applies only when casting a spell that involved using a spell slot. The spell slot regained is of a level lower than the original spell was cast, and can be at maximum a 5th level Spell Slot.
-
 | &nbsp;&nbsp;&nbsp;d100&nbsp;&nbsp;&nbsp; | DICE | EFFECTS                                             |
 | :--------------------------------------: | :--: | :-------------------------------------------------- |
 |                   0-30                   |  2x  | 1 ON DMG DICE COUNTS AS MAX DMG                     |
@@ -18,6 +16,8 @@
 |                  95-96                   |  "   | SEVER AN APPENDAGE (_IF APP_).                      |
 |                  97-99                   |  "   | TARGET STUNNED FOR **d6** ROUNDS (_IF APP_)         |
 |                    00                    |      | INSTANT DOWN/DEATH (_IF APP_)                       |
+
+> Note: Regaining a spell slot applies only when casting a spell that involved using a spell slot. The spell slot regained is of a level lower than the original spell was cast, and can be at maximum a 5th level Spell Slot.
 
 # FUMBLE TABLE (**NATURAL 1 ONLY**)
 
