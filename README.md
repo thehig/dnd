@@ -1,8 +1,3 @@
-<head>
-<script src="{{ base.url | prepend: site.url }}/web/install-sw.js"></script>
-</head>
-<body>
-
 - [Crit/Fumble Tables](./CRITFUMBLE.md)
   - [Critical](./CRITFUMBLE.md#critical-hit-table-natural-20-only)
   - [Fumble](./CRITFUMBLE.md#fumble-table-natural-1-only)
@@ -64,4 +59,4 @@
 
 > Hosted at [https://thehig.github.io/dnd](https://thehig.github.io/dnd)
 
-</body>
+<script src="/dnd/assets/js/install-sw.js"></script>
