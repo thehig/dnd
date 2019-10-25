@@ -16,6 +16,7 @@
 | Beam             | total width of the ship body             |
 
 - Crew Penalties (DMG p119.)
+
   - <90% crew = top speed - 1mph
   - <50% crew = no attack actions, reactions
   - <25% crew = slowed, DISCHK
@@ -103,7 +104,7 @@ Commander
 |                      | - if target succeeds, ramming vehicle move speed becomes 0                                    |
 |                      | - if target fails, target pushed equal to 1/2 set speed and ramming vehicle move speed halved |
 |                      | - if target fails by >=10, ramming vehicle move speed unaffected                              |
-|                      | after attack, ramming vessel bay adjust course as a free action with DM allowance             |
+|                      | after attack, ramming vessel may adjust course as a free action with DM allowance             |
 |                      | if speed remaining after ram >= 20ft additional ram attacks may be made                       |
 |                      | at < 20ft speed, no attack, vehicle move speed becomes 0                                      |
 | Cast or Raise Anchor | while anchor cast                                                                             |
@@ -133,6 +134,42 @@ Commander
 - Damage Control
   - character may grant vehicle 5 temp hp
   - temp hp increased to 10 if character has prof with appropriate tool set
+
+### Defense Conditions
+
+For the purposes of Glyph of Warding and other delayed-effect spells cast on the ship proper (i.e. not including any personal spells/glyphs), the "DEFCON" system has been appropriated.
+
+A Pendant/Broach that bears the symbol of the ship should be given to each crew member or occupant to identify them to the Glyph defense system. **It must remain visible** (A brand with the same insignia can be used for pets, companions etc)
+
+Each Glyph has a unique command word that identifies it (PCs can just point and say "that one") that can be commanded to enter a specific DEFCON with an optional 6 second delay.
+
+Pendant wearers can initiate DEFCONs 1, 2 and 3. However only the Captain and XO can initiate DEFCON 4 or 0
+
+Changes in shipwide DEFCON can be performed verbally or with a hand-gesture (Wrists crossed above the head, with the numerical DEFCON represented by the same number of extended fingers on both hands). DEFCON must be relayed by the Crew.
+
+| DEFCON | Defense Spells Target                              |
+| :----: | -------------------------------------------------- |
+|   4    | Nobody                                             |
+|   3    | Internal DEFCON-4, External DEFCON-1               |
+|   2    | Any target unaccompanied (10') by a Pendant Wearer |
+|   1    | Any target not wearing a Pendant                   |
+|   0    | **Any target**                                     |
+
+#### Glyph of Warding
+
+- Triggers: DEFCON system
+- Find Glyph: Int (Investigation) vs Caster DC
+-Explosive Glyph:
+  - Choose damage type: acid, cold, fire, lightning, or thunder
+  - 20' Sphere centered on Glyph, spreads around corners
+  - DEXSAV vs 5d8 [+d8 per upcast]
+  - Save for half
+-Spell Glyph:
+  - **Must target a single creature or an area**
+  - If target: targets triggering creature
+  - If area: centered on triggering creature
+  - Does not require concentration
+  - Requires upcasting glyph to store spells > 3rd level
 
 #### Further Reading
 

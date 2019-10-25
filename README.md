@@ -48,6 +48,8 @@
   - [Move Actions](./pages/AIRSHIP.md#move-actions)
   - [Other Actions](./pages/AIRSHIP.md#other-actions)
   - [Other Character Roles](./pages/AIRSHIP.md#other-character-roles)
+  - [Defense Conditions](./pages/AIRSHIP.md#defense-conditions)
+  - [Glyph of Warding](./pages/AIRSHIP.md#glyph-of-warding)
   - [Further Reading](./pages/AIRSHIP.md#further-reading)
 - [Player Specific](./pages/PLAYER-SPECIFIC.md)
   - [Scott/Octavian](./pages/PLAYER-SPECIFIC.md#scott--octavian-wizard-necromancer)
