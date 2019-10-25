@@ -1,4 +1,7 @@
 var CACHE = "cache-and-update";
+var URLS = [];
+
+console.log({{ site.collections | jsonify }});
 
 // On install, cache some resources.
 self.addEventListener("install", function(evt) {
@@ -25,7 +28,7 @@ self.addEventListener("fetch", function(evt) {
 // to the cache. Return a promise resolving when all the assets are added.
 function precache() {
   return caches.open(CACHE).then(function(cache) {
-    return cache.addAll(["./assets", "./pages"]);
+    return cache.addAll(URLS);
   });
 }
 
