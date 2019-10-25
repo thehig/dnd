@@ -58,5 +58,3 @@
   - [Breath Weapon Dice Pool](./pages/DM-RULES.md#breath-weapon-dice-pool)
 
 > Hosted at [https://thehig.github.io/dnd](https://thehig.github.io/dnd)
-
-<script src="/dnd/install-sw.js"></script>
