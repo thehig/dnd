@@ -104,7 +104,7 @@
 - End a day without consuming 1lb of food
   - PCs can go 3+CONMOD days without eating, after which an **automatic point of exhaustion per day** without food
   - Eating half the required food is considered a half day without food
-  - A hero cannot live on Goodberries alone. After 3+CONMOD days of Goodberries, a character will develop symptoms of food poisoning (Poisoned & +1 Exhaustion)
+  - ~~A hero cannot live on Goodberries alone. After 3+CONMOD days of Goodberries, a character will develop symptoms of food poisoning (Poisoned & +1 Exhaustion)~~ _Replaced by requiring material component consumption_ 
 - Travel during Torrential weather
   - 1 exhaustion without check
   - **immediate** DC10CONSAV for a second exhaustion
