@@ -159,12 +159,12 @@ Changes in shipwide DEFCON can be performed verbally or with a hand-gesture (Wri
 
 - Triggers: DEFCON system
 - Find Glyph: Int (Investigation) vs Caster DC
--Explosive Glyph:
+- Explosive Glyph:
   - Choose damage type: acid, cold, fire, lightning, or thunder
   - 20' Sphere centered on Glyph, spreads around corners
   - DEXSAV vs 5d8 [+d8 per upcast]
   - Save for half
--Spell Glyph:
+- Spell Glyph:
   - **Must target a single creature or an area**
   - If target: targets triggering creature
   - If area: centered on triggering creature
