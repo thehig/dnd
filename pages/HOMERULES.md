@@ -10,6 +10,12 @@
 
 - Feather Tokens (eg: Quaals Feather Token) are considered daily uses, rather than one-off consumables
 
+- While in Heavy Obscurement and also in darkness, casting a spell against a target "you can see" is technically impossible. You may do so however if you a) have darkvision b) are standing beside the target of your spell, and c) can touch/sense/percieve them in some way
+
+- Players may opt to use their reaction in combat to make ability checks that don't rely on them taking some physical activity. 
+  - eg: When attempting to Counterspell effectively, the character with counterspell requires the assistance of another character to use their reaction to perform an Intelligence (Arcana) check to try and determine what spell is being cast
+  - eg: When fighting against creatures that use the Hide action, a character may make a Wisdom (Perception) check as a Reaction to try and locate them
+
 ---
 
 ## Character Creation
