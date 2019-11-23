@@ -125,7 +125,6 @@ Commander
 #### Other Character Roles
 
 - Man Weapon Station
-
   - ship no longer controls weapon on its turn
   - PC may operate weapon on their turn
   - Attack uses the better modifier between ship and crew
