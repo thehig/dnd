@@ -85,11 +85,11 @@
 
 ### Maps
 
--[/r/battlemaps/](https://www.reddit.com/r/battlemaps/)
--[/r/imaginarymaps/](https://www.reddit.com/r/imaginarymaps/)
--[/r/mapmaking/](https://www.reddit.com/r/mapmaking/)
--[/r/paperfolks/](https://www.reddit.com/r/paperfolks/)
--[/r/papertowns/](https://www.reddit.com/r/papertowns/)
+- [/r/battlemaps/](https://www.reddit.com/r/battlemaps/)
+- [/r/imaginarymaps/](https://www.reddit.com/r/imaginarymaps/)
+- [/r/mapmaking/](https://www.reddit.com/r/mapmaking/)
+- [/r/paperfolks/](https://www.reddit.com/r/paperfolks/)
+- [/r/papertowns/](https://www.reddit.com/r/papertowns/)
 
 
 
