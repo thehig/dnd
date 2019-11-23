@@ -62,5 +62,17 @@
   - [PJ/Fenrir](./pages/PLAYER-SPECIFIC.md#pj--fenrir-ranger-monster-slayer)
 - [DM Rules](./pages/DM-RULES.md)
   - [Breath Weapon Dice Pool](./pages/DM-RULES.md#breath-weapon-dice-pool)
+- [Resources](./pages/RESOURCES.md)
+  - [Stores](./pages/RESOURCES.md#stores)
+  - [PC Tools](./pages/RESOURCES.md#pc-tools)
+  - [Combat](./pages/RESOURCES.md#combat)
+  - [Cheat Sheets](./pages/RESOURCES.md#cheat-sheets)
+  - [Generators](./pages/RESOURCES.md#generators)
+  - [DM Blogs](./pages/RESOURCES.md#dm_blogs)
+  - [Warez](./pages/RESOURCES.md#warez)
+  - [Subreddits](./pages/RESOURCES.md#subreddits)
+    - [General DnD](./pages/RESOURCES.md#general_dnd)
+    - [Maps](./pages/RESOURCES.md#maps)
+
 
 > Hosted at [https://thehig.github.io/dnd](https://thehig.github.io/dnd)
