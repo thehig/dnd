@@ -1,3 +1,5 @@
+# Rule Reminders
+
 ## Spellcasting Material Components
 
 - If you have an arcane focus or component pouch it is assumed you have any material components necessary for spellcasting **except if a material has a gp value**, in which case you must have that Material Component in your inventory to cast the spell.

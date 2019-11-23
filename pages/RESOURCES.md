@@ -1,3 +1,5 @@
+# Resources
+
 ### Stores
 
 - [DMs Guild](https://www.dmsguild.com/)
