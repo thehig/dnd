@@ -73,6 +73,9 @@
   - [Subreddits](./pages/RESOURCES.md#subreddits)
     - [General DnD](./pages/RESOURCES.md#general_dnd)
     - [Maps](./pages/RESOURCES.md#maps)
-
+- [Westmarches](./pages/WESTMARCHES.md)
+  - [Origins](./pages/WESTMARCHES.md#origins)
+  - [Other Stuff by the same Author](./pages/WESTMARCHES.md#other-stuff-by-the-same-author)
+  - [Other Resources](./pages/WESTMARCHES.md#other-resources)
 
 > Hosted at [https://thehig.github.io/dnd](https://thehig.github.io/dnd)
