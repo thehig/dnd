@@ -11,11 +11,15 @@
 ### Other stuff by the same Author
 
 - [Microscope](http://www.lamemage.com/microscope/)
-  - [Microscope Explorer](http://www.lamemage.com/microscope-explorer/)
+- [Microscope Explorer](http://www.lamemage.com/microscope-explorer/)
 - [Kingdom](http://www.lamemage.com/kingdom/)
 
 ## Other Resources
 
 - [Colville Video](https://www.youtube.com/watch?v=oGAC-gBoX9k)
 - [The West Marches: A Style of D&D Campaign for large groups](https://knightssemantic.wordpress.com/2016/06/01/the-west-marches-a-style-of-dd-campaign-for-large-groups/)
-- [West Marches Resources](https://www.reddit.com/r/itmejp/comments/2idf33/west_marches_resources/)
+- Reddit Links
+  - [West Marches Resources](https://www.reddit.com/r/itmejp/comments/2idf33/west_marches_resources/)
+  - [Lessons from Westmarches -A guide to improving play](https://www.reddit.com/r/DMAcademy/comments/adn178/lessons_from_west_marches_a_guide_to_improving/)
+  - [Looking for more players (Has some good links)](https://www.reddit.com/r/dndnext/comments/agzv2f/looking_for_more_players_westmarches_style/)
+  - [How Not To Make Them Repetitive](https://www.reddit.com/r/DMAcademy/comments/cuani9/west_marches_how_not_to_make_them_repetitive/)
