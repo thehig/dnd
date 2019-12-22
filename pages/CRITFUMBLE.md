@@ -45,10 +45,4 @@
 |                    00                    | AUTOMATIC HIT CLOSEST ALLY. ROLL FOR CRIT. (_IF NOT APPLICABLE, TREAT AS 99._) |
 
 > Note: "CASTER AIDE" refers to a Focus, Component Pouch, or other item used in the casting of a Spell
-
-> Note: "Fumble" also applies to SAVING THROWS made against harmful magical effects
-
 > Note: EOT = End of Turn, EONT = End of Next Turn
-
-- [Github Gist](https://gist.github.com/thehig/19c6db9df9e43ea7e10fa4bed312525f)
-- [bit.ly/critfumble](bit.ly/critfumble)
