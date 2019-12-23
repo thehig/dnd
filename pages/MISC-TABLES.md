@@ -1,39 +1,71 @@
 ## DMG Tables Table
 
-| PG  | Table                       | PG  | Table                      | &nbsp;&nbsp;&nbsp;PG&nbsp;&nbsp;&nbsp; | Table                                     | PG  | Table                                |
-| :-: | :-------------------------- | :-: | :------------------------- | :------------------------------------: | :---------------------------------------- | :-: | :----------------------------------- |
-| 18  | Forms of Government         | 90  | NPC Talents                |                  114                   | _Random Urban Encounters_                 | 291 | Exit Type                            |
-| 27  | World-Shaking Events        | 90  | Mannerism                  |                  116                   | Random Undersea Encounters                | 291 | Stairs                               |
-| 27  | Leader Types                | 90  | NPC Interaction Traits     |                  118                   | Random Encounters At Sea                  | 292 | Dungeon: Death Trap                  |
-| 28  | Cataclysmic Disasters       | 90  | NPC Ideals                 |                  128                   | _Carousing_                               | 293 | Dungeon: Lair                        |
-| 29  | Invading Force              | 91  | NPC Bonds                  |                  129                   | Running A Business                        | 293 | Dungeon: Maze                        |
-| 30  | Extinction or Depletion     | 91  | NPC Flaws and Secrets      |                  130                   | _Selling A Magic Item_                    | 293 | Dungeon: Mine                        |
-| 31  | New Organizations           | 94  | Villain's Scheme           |                  134                   | _Gemstones_                               | 293 | Dungeon: Planar Gate                 |
-| 31  | Discoveries                 | 95  | Villains Methods           |                134-135                 | _Art Objects_                             | 294 | Dungeon: Stronghold                  |
-| 47  | Astral Color Pools          | 96  | Villain's Weakness         |                  136                   | Individual Treasure                       | 294 | Dungeon: Temple or Shrine            |
-| 48  | Psychic Wind Effects        | 99  | Dungeon Location           |                137-138                 | _Treasure Hoard_                          | 295 | Dungeon: Tomb                        |
-| 49  | Ethereal Curtains           | 99  | Exotic Location            |                  140                   | [Mixing Potions](#potion-miscibility)     | 295 | Dungeon: Treasure Vault              |
-| 49  | Ether Cyclone               | 100 | Dungeon Creator            |                  140                   | [Scroll Mishaps](#scroll-mishap)          | 295 | General Dungeon Chambers             |
-| 50  | Feywild Time Warp           | 100 | Cults and Religious Groups |                142-143                 | _Magic Item Special Features_             | 295 | Current Chamber State                |
-| 52  | Shadowfell Despair          | 100 | NPC Alignment              |                144-149                 | _Random Magic Items_                      | 296 | Dungeon Chamber Contents             |
-| 62  | Abyssal Corruption          | 101 | NPC Class                  |                  153                   | Bag of Beans                              | 296 | Monster Motivation                   |
-| 73  | Dungeon Goals               | 101 | Dungeon Purpose            |                  188                   | Potion of Resistance Elements             | 296 | Dungeon Hazards                      |
-| 73  | Wilderness Goals            | 101 | Dungeon History            |                212-213                 | Wand of Wonder Effect                     | 297 | _Obstacles_                          |
-| 74  | Other Goals                 | 108 | Monuments                  |                214-215                 | Sentient Magic Items                      | 297 | _Trap Trigger_                       |
-| 74  | Adventure Villains          | 109 | Weird Locales              |                219-220                 | Artifact Properties                       | 297 | _Trap Damage Severity_               |
-| 74  | Adventure Allies            | 109 | _Weather_                  |                  254                   | Urban Chase Complications                 | 297 | _Trap Effect_                        |
-| 74  | Adventure Patrons           | 112 | Race Relations             |                  254                   | Wilderness Chase Complications            | 298 | Trick Objects                        |
-| 74  | Advenure Introductions      | 112 | Ruler's Status             |                259-260                 | [Madness Effects](#madness)               | 298 | Tricks                               |
-| 75  | Adventure Climax            | 112 | Notable Traits             |                  272                   | [Lingering Injuries](#lingering-injuries) | 298 | Noises                               |
-| 75  | Event-Based Villain Actions | 112 | Known For Its              |                  273                   | System Shock                              | 299 | Air                                  |
-| 76  | Event-Based Goals           | 112 | Current Calamity           |                  290                   | Random Dungeon Starting Area              | 299 | Odors                                |
-| 79  | Framing Events              | 113 | Building Type              |                  290                   | Passage                                   | 299 | General Features                     |
-| 79  | Moral Quandaries            | 113 | Residence                  |                  290                   | Passage Width                             | 299 | General Furnishings and Appointments |
-| 80  | Twists                      | 113 | Religious Building         |                  291                   | Door Type                                 | 300 | Religious Articles and Furnishings   |
-| 81  | Side Quests                 | 113 | Tavern                     |                  291                   | Beyond a Door                             | 300 | Mage Furnishings                     |
-| 87  | Sylvan Forest Encounters    | 113 | _Tavern Name Generator_    |                  291                   | Chamber                                   | 300 | Utencils and Personal Items          |
-| 89  | NPC Appearance              | 113 | Warehouse                  |                  291                   | Chamber Exits                             | 301 | Container Contents                   |
-| 89  | NPC Abilities               | 114 | Shop                       |                  291                   | Exit Location                             | 301 | Books, Scrolls, and Tomes            |
+| PG  | Table                       | &nbsp;&nbsp;&nbsp;PG&nbsp;&nbsp;&nbsp; | Table                                     |
+| :-: | :-------------------------- | :------------------------------------: | :---------------------------------------- |
+| 18  | Forms of Government         |                  114                   | _Random Urban Encounters_                 |
+| 27  | World-Shaking Events        |                  116                   | Random Undersea Encounters                |
+| 27  | Leader Types                |                  118                   | Random Encounters At Sea                  |
+| 28  | Cataclysmic Disasters       |                  128                   | _Carousing_                               |
+| 29  | Invading Force              |                  129                   | Running A Business                        |
+| 30  | Extinction or Depletion     |                  130                   | _Selling A Magic Item_                    |
+| 31  | New Organizations           |                  134                   | _Gemstones_                               |
+| 31  | Discoveries                 |                134-135                 | _Art Objects_                             |
+| 47  | Astral Color Pools          |                  136                   | Individual Treasure                       |
+| 48  | Psychic Wind Effects        |                137-138                 | _Treasure Hoard_                          |
+| 49  | Ethereal Curtains           |                  140                   | [Mixing Potions](#potion-miscibility)     |
+| 49  | Ether Cyclone               |                  140                   | [Scroll Mishaps](#scroll-mishap)          |
+| 50  | Feywild Time Warp           |                142-143                 | _Magic Item Special Features_             |
+| 52  | Shadowfell Despair          |                144-149                 | _Random Magic Items_                      |
+| 62  | Abyssal Corruption          |                  153                   | Bag of Beans                              |
+| 73  | Dungeon Goals               |                  188                   | Potion of Resistance Elements             |
+| 73  | Wilderness Goals            |                212-213                 | Wand of Wonder Effect                     |
+| 74  | Other Goals                 |                214-215                 | Sentient Magic Items                      |
+| 74  | Adventure Villains          |                219-220                 | Artifact Properties                       |
+| 74  | Adventure Allies            |                  254                   | Urban Chase Complications                 |
+| 74  | Adventure Patrons           |                  254                   | Wilderness Chase Complications            |
+| 74  | Advenure Introductions      |                259-260                 | [Madness Effects](#madness)               |
+| 75  | Adventure Climax            |                  272                   | [Lingering Injuries](#lingering-injuries) |
+| 75  | Event-Based Villain Actions |                  273                   | System Shock                              |
+| 76  | Event-Based Goals           |                  290                   | Random Dungeon Starting Area              |
+| 79  | Framing Events              |                  290                   | Passage                                   |
+| 79  | Moral Quandaries            |                  290                   | Passage Width                             |
+| 80  | Twists                      |                  291                   | Door Type                                 |
+| 81  | Side Quests                 |                  291                   | Beyond a Door                             |
+| 87  | Sylvan Forest Encounters    |                  291                   | Chamber                                   |
+| 89  | NPC Appearance              |                  291                   | Chamber Exits                             |
+| 89  | NPC Abilities               |                  291                   | Exit Location                             |
+| 90  | NPC Talents                 |                  291                   | Exit Type                                 |
+| 90  | Mannerism                   |                  291                   | Stairs                                    |
+| 90  | NPC Interaction Traits      |                  292                   | Dungeon: Death Trap                       |
+| 90  | NPC Ideals                  |                  293                   | Dungeon: Lair                             |
+| 91  | NPC Bonds                   |                  293                   | Dungeon: Maze                             |
+| 91  | NPC Flaws and Secrets       |                  293                   | Dungeon: Mine                             |
+| 94  | Villain's Scheme            |                  293                   | Dungeon: Planar Gate                      |
+| 95  | Villains Methods            |                  294                   | Dungeon: Stronghold                       |
+| 96  | Villain's Weakness          |                  294                   | Dungeon: Temple or Shrine                 |
+| 99  | Dungeon Location            |                  295                   | Dungeon: Tomb                             |
+| 99  | Exotic Location             |                  295                   | Dungeon: Treasure Vault                   |
+| 100 | Dungeon Creator             |                  295                   | General Dungeon Chambers                  |
+| 100 | Cults and Religious Groups  |                  295                   | Current Chamber State                     |
+| 100 | NPC Alignment               |                  296                   | Dungeon Chamber Contents                  |
+| 101 | NPC Class                   |                  296                   | Monster Motivation                        |
+| 101 | Dungeon Purpose             |                  296                   | Dungeon Hazards                           |
+| 101 | Dungeon History             |                  297                   | _Obstacles_                               |
+| 108 | Monuments                   |                  297                   | _Trap Trigger_                            |
+| 109 | Weird Locales               |                  297                   | _Trap Damage Severity_                    |
+| 109 | _Weather_                   |                  297                   | _Trap Effect_                             |
+| 112 | Race Relations              |                  298                   | Trick Objects                             |
+| 112 | Ruler's Status              |                  298                   | Tricks                                    |
+| 112 | Notable Traits              |                  298                   | Noises                                    |
+| 112 | Known For Its               |                  299                   | Air                                       |
+| 112 | Current Calamity            |                  299                   | Odors                                     |
+| 113 | Building Type               |                  299                   | General Features                          |
+| 113 | Residence                   |                  299                   | General Furnishings and Appointments      |
+| 113 | Religious Building          |                  300                   | Religious Articles and Furnishings        |
+| 113 | Tavern                      |                  300                   | Mage Furnishings                          |
+| 113 | _Tavern Name Generator_     |                  300                   | Utencils and Personal Items               |
+| 113 | Warehouse                   |                  301                   | Container Contents                        |
+| 114 | Shop                        |                  301                   | Books, Scrolls, and Tomes                 |
 
 > [Source](https://slyflourish.com/random_tables_of_the_dmg.html)
 
