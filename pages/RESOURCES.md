@@ -36,6 +36,7 @@
 - [Store](https://rpgtool.herokuapp.com/#)
 - [City](https://watabou.itch.io/medieval-fantasy-city-generator)
 - [NPC](https://rpgtinker.com/bestiary.php)
+- [NPC Affectation](https://ben.straub.cc/gc/) [*](https://www.reddit.com/r/DMToolkit/comments/fg4z5f/jamison_gc_skeleton_sheet_generator/)
 - [Dungeon (donjon)](https://donjon.bin.sh/5e/dungeon/)
 - [Shop (donjon)](https://donjon.bin.sh/5e/magic/shop.html)
 - [Treasure (donjon)](https://donjon.bin.sh/5e/random/#type=treasure)
